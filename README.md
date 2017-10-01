@@ -1,6 +1,6 @@
 ## Project Euler Solutions
 #### By **Michelle Poterek**
-###### _Last updated 8/20/17_
+###### _Last updated 10/1/17_
 
 
 ## Description
@@ -16,6 +16,7 @@ _"Project Euler exists to encourage, challenge, and develop the skills and enjoy
 | Problem Number  | Language       | Problem                  | Repository   |
 | ----- | ------------- | ---------------------------- | ------------ |
 | 1     | **Java Script**     | Finding the sum of numbers that are multiples of 3 or 5 below 1000. | [Link](https://github.com/PoterekM/project-euler-practice) |
+| 2     | **Java Script**     | Finding the sum of numbers that are multiples of 3 or 5 below 1000. | [Link](https://github.com/PoterekM/euler2JS) |
 
 
 ## Support and contact details
